@@ -1,5 +1,5 @@
-normal_speed = 780;
-slow_speed = 600;
+normal_speed = 800;
+slow_speed = 700;
 threshold = 2705;
 
 local lf_toggle = false;
