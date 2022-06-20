@@ -1,0 +1,5 @@
+D:/AVR/WALC/Gratzer_el-robot/cmake-build-lolin32/CMakeFiles/Production.dir
+D:/AVR/WALC/Gratzer_el-robot/cmake-build-lolin32/CMakeFiles/Debug.dir
+D:/AVR/WALC/Gratzer_el-robot/cmake-build-lolin32/CMakeFiles/Z_DUMMY_TARGET.dir
+D:/AVR/WALC/Gratzer_el-robot/cmake-build-lolin32/CMakeFiles/edit_cache.dir
+D:/AVR/WALC/Gratzer_el-robot/cmake-build-lolin32/CMakeFiles/rebuild_cache.dir
